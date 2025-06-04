@@ -1,0 +1,47 @@
+[
+  {
+    "label": "Theatre only",
+    "value": "theatre_only",
+    "image": "https://raw.githubusercontent.com/GavinSin/table_and_chair_arrangement/refs/heads/main/theatre_only.png"
+  },
+  {
+    "label": "Workshop",
+    "value": "Workshop",
+    "image": "https://raw.githubusercontent.com/GavinSin/table_and_chair_arrangement/refs/heads/main/workshop.png"
+  },
+  {
+    "label": "Circles only",
+    "value": "circles_only",
+    "image": "https://raw.githubusercontent.com/GavinSin/table_and_chair_arrangement/refs/heads/main/circles_only.png"
+  },
+  {
+    "label": "Do it yourself",
+    "value": "do_it_yourself",
+    "image": "https://raw.githubusercontent.com/GavinSin/table_and_chair_arrangement/refs/heads/main/all_chairs_cleared.png"
+  },
+  {
+    "label": "Pastoral Meeting",
+    "value": "pastoral_meeting",
+    "image": "https://raw.githubusercontent.com/GavinSin/table_and_chair_arrangement/refs/heads/main/pastoral_meeting.png"
+  },
+  {
+    "label": "Square Table at Side, Centre Empty",
+    "value": "square_table_side_centre_empty",
+    "image": "https://raw.githubusercontent.com/GavinSin/table_and_chair_arrangement/refs/heads/main/square_table_side_centre_empty.png"
+  },
+  {
+    "label": "Staff Devotion",
+    "value": "staff_devotion",
+    "image": "https://raw.githubusercontent.com/GavinSin/table_and_chair_arrangement/refs/heads/main/staff_devotion.png"
+  },
+  {
+    "label": "Theatre at Centre, Circles at Side",
+    "value": "theatre_centre_circles_side",
+    "image": "https://raw.githubusercontent.com/GavinSin/table_and_chair_arrangement/refs/heads/main/theatre_centre_circles_side.png"
+  },
+  {
+    "label": "All Chairs Cleared",
+    "value": "all_chairs_cleared",
+    "image": "https://raw.githubusercontent.com/GavinSin/table_and_chair_arrangement/refs/heads/main/all_chairs_cleared.png"
+  },
+]
